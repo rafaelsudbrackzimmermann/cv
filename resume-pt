@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Página pessoal de Rafael</title>
+    </head>
+    <body style="margin: 0 auto; width: 75%;" >
+    <table cellpadding="20">
+        <tr>
+            <td>
+                <img src="13436620-kg.jpeg" alt="Imagem de perfil de Rafael Zimmermann" style="width:150px; height:150px;">
+            </td>
+            <td>
+                <h1>Rafael Sudbrack Zimmermann</h1>
+                <h2>Fundador da Metarobos</h2>
+                <p>Com mais de 11 anos de experiência como Engenheiro de Dados, destaquei-me especialmente no desafiador ambiente do mercado financeiro, onde lidar com dados aleatórios e previsões incertas, como é característico do mercado de ações, torna-se uma tarefa diária. Meu profundo entendimento e capacidade de trabalhar sob pressão, com um foco inabalável nos resultados, permitiram-me criar modelos robustos centrados no suavização de capital e gestão de carteiras. Sou o criador de várias técnicas inovadoras aplicadas ao meu robô de investimento e, ao longo dos anos, tornei-me um defensor da automação no mercado financeiro, sendo reconhecido como pioneiro neste campo no Brasil.</p>
+
+            </td>
+        </tr>
+    </table>
+
+        <hr>
+        <h3>Educação</h3>
+        <ul>
+            <li>Especialista em Desenvolvimento e Implementação de Robôs de Investimento.</li>
+            <li>OCA: Oracle Database 11g Administrator Certified Associate.</li>
+            <li>MCSA: SQL Server 2012</li>
+            <li>PCPP1 – Certified Professional in Python Programming 1</li>
+            <li>Graduação em Análise e Desenvolvimento de Sistemas pela Universidade Anhanguera</li>
+            <li><a href="https://www.credly.com/users/rafael-zimmermann">Badges no Credly</a></li>
+            <li><a href="https://github.com/rafaelsudbrackzimmermann">GitHub</a></li>
+        </ul>
+        <h3>Características pessoais:</h3>
+            <p>Auto motivado, proativo e adaptável a ambientes de trabalho remotos.</p>
+        <h3>Interesses Pessoais</h3>
+            <p>Fora do ambiente profissional, dedico-me a atividades que complementam minha jornada e desenvolvimento. Sou um entusiasta do tênis, uma atividade que afia minha coordenação, foco e capacidade de tomar decisões rápidas sob pressão. Ler e participar de palestras são partes integrantes da minha rotina, pois acredito no aprendizado contínuo e na atualização constante para se manter à frente em um mundo em constante evolução. O ciclismo é outra paixão, que, além de proporcionar benefícios físicos, oferece momentos de reflexão e conexão com o ambiente. Essas atividades não apenas me rejuvenescem, mas também fortalecem habilidades essenciais que trago para o mundo profissional.</p>
+
+<hr>
+
+    <h3>Experiência Profissional</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    Datas
+                </th>
+                <th>
+                    Trabalho
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- As experiências profissionais anteriores foram listadas aqui -->
+            <tr>
+                <td>2014 - 2023</td>
+                <td>
+                    <strong>Desenvolvedor de mercado financeiro quantitativo na <a href="https://metarobos.com">Metarobos</a></strong>
+                    <ul>
+                        <li>Projetou e executou estratégias financeiras e robôs de última geração usando Python, MQL5 e técnicas orientadas por IA adaptadas para a natureza imprevisível do mercado de ações.</li>
+                        <li>Manteve os mais altos padrões de gerenciamento de banco de dados, priorizando a integridade e segurança dos dados.</li>
+                        <li>Aumentou a visibilidade online da Metarobos produzindo conteúdo atraente para o canal da empresa no YouTube, explorando estratégias avançadas de marketing digital.</li>
+                        <li>Assumiu responsabilidades empreendedoras, direcionando os empreendimentos financeiros, de marketing e comerciais da empresa.</li>
+                        <li>Realizou extensos projetos de desenvolvimento utilizando Python e MQL5, refletindo uma compreensão profunda das soluções financeiras quantitativas.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+<hr>
+<div>
+    <h3 style="text-align: center;">Habilidades</h3>
+    <table cellspacing="10" style="margin: 0 auto;">
+        <tr>
+            <td>Mql5</td>
+            <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+            <td>Python</td>
+            <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+        </tr>
+        <tr>
+            <td>SQL</td>
+            <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+            <td>Banco de dados Oracle</td>
+            <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+        </tr>
+        <tr>
+            <td>Aprendizado de Máquina</td>
+            <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+            <td>SOA Oracle</td>
+            <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+        </tr>
+        <tr>
+            <td>Aprendizado Profundo</td>
+            <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+            <td>IA</td>
+            <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+        </tr>
+    </table>
+</div>
+</body>
+
+</html>
